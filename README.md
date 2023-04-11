@@ -39,3 +39,13 @@ ____
   python discord_bot.py
 ```
 ____
+<h3 align="center">
+  Также программу можно запустить, открыв IDE, в терминале питона:
+</h3>
+<div align="center">
+  <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/VNpRxTq/launch.png" alt="Запуск программы в терминале питона"></a>
+</div>
+<h2 align="center">
+  Далее программа запустится и в вашем статусе в Discord появится лого FL Studio и название проекта, над которым вы сейчас работаете!
+  <br>Бот автоматически закончит свою работу когда вы выйдете из приложения FL Studio.<br>
+</h2>
