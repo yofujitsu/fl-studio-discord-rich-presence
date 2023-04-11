@@ -4,12 +4,10 @@
   <br>
   Discord Rich Presence Bot for FL Studio 20.
 </h2>
-____
 ```
   pip install pypresence
   pip install pyautogui
 ```
-____
 ## Далее можно скачать отсюда файл discord_bot.py и запустить его в командной строке прописав команду в терминале (предварительно указав полный путь к файлу):
 
 ____
