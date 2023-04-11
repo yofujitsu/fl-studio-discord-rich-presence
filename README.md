@@ -5,8 +5,8 @@
   Discord Rich Presence Bot for FL Studio 20.
   <br>
 </h1>
-###  Бот для визуального отображения ваших проектов в FL Studio 20.
 ____
+###  Бот для визуального отображения ваших проектов в FL Studio 20.
 ```
   pip install pypresence
   pip install pyautogui
