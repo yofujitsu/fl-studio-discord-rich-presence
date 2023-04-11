@@ -8,6 +8,15 @@
 <h3 align="center">
     Бот для визуального отображения ваших проектов в FL Studio 20.
 </h3>
+<h2 align="center">
+  <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/k4HsYqG/main.jpg" alt="Демонстрация программы"></a>
+</h2>
+<h2 align="center">
+  Перед скачиванием самого бота необходимо скачать Python версии 3.x (какой пожелаете) на сайте https://python.org
+</h2>
+<h2 align="center">
+  После скачивания питона необходимо установить библиотеки pypresence и pyautogui. Команды нужно выполнять в командной строке или в терминале питона.
+</h2>
 
 ```
   pip install pypresence
