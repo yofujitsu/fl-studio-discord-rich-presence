@@ -4,7 +4,6 @@
   <br>
   Discord Rich Presence Bot for FL Studio 20.
 </h2>
-____
 
 ```
   pip install pypresence
