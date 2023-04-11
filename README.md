@@ -17,6 +17,9 @@
 <h2 align="center">
   После скачивания питона необходимо установить библиотеки pypresence и pyautogui. Команды нужно выполнять в командной строке или в терминале питона.
 </h2>
+<div align="center">
+  <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/myJbQhV/cmd.jpg" alt="Скачивание библиотек"></a>
+</div>
 
 ```
   pip install pypresence
