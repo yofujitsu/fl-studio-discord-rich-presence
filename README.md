@@ -5,7 +5,9 @@
   Discord Rich Presence Bot for FL Studio 20.
   <br>
 </h1>
-# Бот для визуального отображения ваших проектов в FL Studio 20.
+<h1 align="center">
+  Бот для визуального отображения ваших проектов в FL Studio 20.
+</h1>
 <h1 align="center">
   <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/k4HsYqG/main.jpg" alt="Демонстрация программы"></a>
 </h1>
