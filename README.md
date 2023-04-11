@@ -20,23 +20,29 @@
 <div align="center">
   <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/myJbQhV/cmd.jpg" alt="Скачивание библиотек"></a>
 </div>
-```
+____
+```cmd
   pip install pypresence
   pip install pyautogui
 ```
+____
 <h2 align="center">
   Далее можно скачать отсюда файл discord_bot.py и запустить его в командной строке прописав команду в терминале (предварительно указав полный путь к файлу):
 </h2>
-```
+____
+```python
   python C://Users/your_username/.../your_folder_with_file/discord_bot.py
 ```
+____
 <h2 align="center">
   Или можно заранее перейти в нужную директорию с файлом и команда запуска заметно упростится:
 </h2>
-```
+____
+```cmd
   cd C://Users/your_username/your_folder_with_file/
   python discord_bot.py
 ```
+____
 <h3 align="center">
   Или запустив IDE и запустить программу в терминале питона:
 </h3>
