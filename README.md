@@ -11,19 +11,19 @@
 <div align="center">
   <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/k4HsYqG/main.jpg" alt="Демонстрация программы"></a>
 </div>
-
 ----
 Перед скачиванием самого бота необходимо скачать Python версии 3.x (какой пожелаете) на сайте [python.org](https://python.org)
 ----
 После скачивания питона необходимо установить библиотеки (***pypresence и pyautogui***). Команды нужно выполнять в командной строке или в терминале питона.
-
+<div align="center">
+  <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/myJbQhV/cmd.jpg" alt="Скачивание библиотек"></a>
+</div>
 ```
 pip install pypresence
 pip install pyautogui
 ```
 ----
 Далее можно скачать отсюда файл discord_bot.py и запустить его в командной строке прописав команду в терминале (предварительно указав полный путь к файлу):
-
 ```
 python C://Users/your_username/.../your_folder_with_file/discord_bot.py
 ```
@@ -34,6 +34,10 @@ python C://Users/your_username/.../your_folder_with_file/discord_bot.py
 cd C://Users/your_username/your_folder_with_file/
 python discord_bot.py
 ```
+Или запустив IDE и запустить программу в терминале питона:
+<div align="center">
+  <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/VNpRxTq/launch.png" alt="Запуск программы в терминале питона"></a>
+</div>
 ----
 Далее программа запустится и в вашем статусе в Discord появится лого FL Studio и название проекта, над которым вы сейчас работаете!
 ----
