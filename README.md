@@ -29,13 +29,16 @@
 <div align="center">
   <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://ie.wampi.ru/2023/04/11/how_to_download.png" alt="Скачивание файла"></a>
 </div>
+
 ____
+
 ```
   python C://Users/your_username/.../your_folder_with_file/discord_bot.py
 ```
 ____
 ## Или можно заранее перейти в нужную директорию с файлом и команда запуска заметно упростится:
 ____
+
 ```
   cd C://Users/your_username/your_folder_with_file/
   python discord_bot.py
