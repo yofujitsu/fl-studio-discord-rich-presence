@@ -5,21 +5,7 @@
   Discord Rich Presence Bot for FL Studio 20.
   <br>
 </h1>
-<h1 align="center">
-  Бот для визуального отображения ваших проектов в FL Studio 20.
-</h1>
-<h1 align="center">
-  <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/k4HsYqG/main.jpg" alt="Демонстрация программы"></a>
-</h1>
-<h2 align="center">
-  Перед скачиванием самого бота необходимо скачать Python версии 3.x (какой пожелаете) на сайте [python.org](https://python.org)
-</h2>
-<h2 align="center">
-  После скачивания питона необходимо установить библиотеки (***pypresence и pyautogui***). Команды нужно выполнять в командной строке или в терминале питона.
-</h2>
-<div align="center">
-  <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/myJbQhV/cmd.jpg" alt="Скачивание библиотек"></a>
-</div>
+
 ____
 ```cmd
   pip install pypresence
@@ -43,13 +29,3 @@ ____
   python discord_bot.py
 ```
 ____
-<h3 align="center">
-  Или запустив IDE и запустить программу в терминале питона:
-</h3>
-<div align="center">
-  <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/VNpRxTq/launch.png" alt="Запуск программы в терминале питона"></a>
-</div>
-<h2 align="center">
-  Далее программа запустится и в вашем статусе в Discord появится лого FL Studio и название проекта, над которым вы сейчас работаете!
-  <br>Бот автоматически закончит свою работу когда вы выйдете из приложения FL Studio.<br>
-</h2>
