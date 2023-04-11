@@ -8,7 +8,7 @@
 
 # Бот для визуального отображения ваших проектов в FL Studio 20.
 ----
-![alt text](ttps://i.ibb.co/k4HsYqG/main.jpg)
+![Демонстрация программы](https://i.ibb.co/k4HsYqG/main.jpg)
 ----
 Перед скачиванием самого бота необходимо скачать Python версии 3.x (какой пожелаете) на сайте [python.org](https://python.org)
 ----
