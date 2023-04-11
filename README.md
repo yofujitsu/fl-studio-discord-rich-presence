@@ -9,7 +9,7 @@
 # Бот для визуального отображения ваших проектов в FL Studio 20.
 ----
 <div align="center">
-  ![Демонстрация программы](https://i.ibb.co/k4HsYqG/main.jpg)
+  <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://i.ibb.co/k4HsYqG/main.jpg" alt="Демонстрация программы"></a>
 </div>
 
 ----
