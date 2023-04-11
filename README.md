@@ -26,7 +26,9 @@
   pip install pyautogui
 ```
 ## Далее можно скачать отсюда файл discord_bot.py и запустить его в командной строке прописав команду в терминале (предварительно указав полный путь к файлу):
-
+<div align="center">
+  <a href="https://github.com/yofujitsu/fl-studio-discord-rich-presence/"><img src="https://ie.wampi.ru/2023/04/11/how_to_download.png" alt="Скачивание файла"></a>
+</div>
 ____
 ```
   python C://Users/your_username/.../your_folder_with_file/discord_bot.py
